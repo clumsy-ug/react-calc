@@ -1,3 +1,3 @@
 # React電卓
 
-現在開発中です
+<img src="./src/public/calc_prod.png">
